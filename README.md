@@ -3,7 +3,7 @@
 <h1 align="center">
  <p>BioVerde 
    <div align="center">
- <img align= right" width="250" height="200" src="https://github.com/ecard58/ProjetoFinal/blob/5366c9befb27fe93b467026796db0ef9ce205902/toystorefundotransp.png">
+ <img align= right" width="250" height="200" src="https://github.com/lucianabrand/trabalhoindividual/blob/efff1c179e167dd3f3c67f74b64e759330c81d5d/bioverde.gif">
 </ul> 
 </h1>
     
