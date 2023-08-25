@@ -28,7 +28,7 @@
 ## 💻 Acesso ao projeto ##
 ``` bash
     # Link do projeto
-     https://github.com/ecard58/ProjetoFinal.git
+     https://https://github.com/lucianabrand/trabalhoindividual.git
 ```
 
 ## 🛠 TECNOLOGIAS UTILIZADAS ##
@@ -40,6 +40,6 @@
 
 
 ## 👥 AUTOR(A) DO PROJETO ## 
-| [<img loading="lazy" src="https://github.com/ecard58/ProjetoFinal/blob/5366c9befb27fe93b467026796db0ef9ce205902/Bernardo1.png" width=115><br><sub>BERNARDO REUTHER</sub>](https://github.com/YoloDesu) |
+| [<img loading="lazy" src="https://github.com/lucianabrand/trabalhoindividual/blob/efff1c179e167dd3f3c67f74b64e759330c81d5d/boneco_eco.jpg" width=115><br><sub>LUCIANA BRAND</sub>](https://github.com/lucianabrand) |
 
 
