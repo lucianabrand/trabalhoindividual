@@ -17,7 +17,7 @@
 
 
  <!-- Descrição do Projeto --> 
-## 🧫 Sobre a empresa##
+## 🧫 Sobre a empresa ##
 ** A BioVerde é uma empresa com licenciamento ambiental que certifica geradores de resíduos de diversas classes, conforme a Lei 12.305/10<br>Usamos métodos que visam criar valores ético, social, ambiental e econômico de longo prazo para todas as partes envolvidas em nossos processos visando alcançar a sustentabilidade em nossos processos.
 
 
@@ -30,6 +30,14 @@
     # Link do projeto
      https://https://github.com/lucianabrand/trabalhoindividual.git
 ```
+Este projeto de construção de banco de dados foi pensado para uma empresa que possui laboratórios e necessita de residentes em áres como biologia, química, tecnologica e física. Os residentes serão encaminhados para determinado laboratório conforme a habilidae que possuir. 
+   
+<p align="center">
+ <img src="Modelo  Conceitual -.png">
+
+<img src="Modelo  Lógico -.png">
+
+</p>
 
 ## 🛠 TECNOLOGIAS UTILIZADAS ##
 - [PostgreSQL v15.4](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
